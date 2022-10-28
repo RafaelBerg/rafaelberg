@@ -8,7 +8,7 @@
 </div>
 
 
-<h3 align="center"> Skills: </h3>
+<h2 align="center"><i> Skills: </i></h2> 
  
  
  <div style="display: inline_block;" align="center">
