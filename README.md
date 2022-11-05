@@ -22,14 +22,13 @@
          <img align="center"  title="Python" alt="Python" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
          <img align="center" title="C" alt="C" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
         <img align="center" title="C++" alt="C++" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-         <img align="center" title="Git" alt="Git" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-         <img align="center" title="Mysql" alt="Git" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+        <img align="center" title="JavaScript" alt="JS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+         <img align="center" title="Mysql" alt="Git" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+         <img align="center" title="Git" alt="Git" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
        </td>
        <td align="center">
-        <img align="center" title="JavaScript" alt="JS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" title="NodeJS" alt="NJS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
         <img align="center" title="React" alt="React" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        <img align="center" title="Bootstrap" alt="Pd" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
        </td>
     </tr>
    </table>
