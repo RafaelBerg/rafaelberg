@@ -29,6 +29,7 @@
        <td align="center">
         <img align="center" title="NodeJS" alt="NJS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
         <img align="center" title="React" alt="React" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+         <img align="center" title="TypeScript" alt="React" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
        </td>
     </tr>
    </table>
