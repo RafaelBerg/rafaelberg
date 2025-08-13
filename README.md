@@ -1,38 +1,41 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Berg/>"/></div>  
-<h2 align="center"><i> Minha atividade no GitHub: </i></h2>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%2336BCF7&height=68&center=true&size=30&duration=3000&&lines=<Berg/>"/></div>
+<p align="center">
+  Olá! Sou Rafael Berg, Desenvolvedor Full Stack & Estudante de Engenharia da Computação
+  <br>
+  💼 Tenho experiência em estágios e projetos pessoais, sempre buscando transformar desafios em soluções eficientes.
+  <br>
+  💻 Acredito que a persistência diante do "game over" é o que nos leva ao próximo nível.
+  <br>
+  📚 Foco sempre no problema, aprendendo a tecnologia que cada missão exigir.
+</p>
 
 <div align="center">
-  <img  width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelBerg&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img  width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBerg&layout=compact&langs_count=7&theme=react"/>
+    <a href="mailto:rafaelberg32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rafael-berg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<h2 align="center"><i> Skills: </i></h2> 
- <div style="display: inline_block;" align="center">
-   <table>
-     <tr>
-       <td align="center">Conhecimento em:</td>
-       <td align="center">Estudando Atualmente:</td>
-     </tr>
-     <tr>
-       <td align="center">
-         <img align="center"  title="Python" alt="Python" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-         <img align="center" title="C" alt="C" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-        <img align="center" title="C++" alt="C++" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-        <img align="center" title="JavaScript" alt="JS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-         <img align="center" title="Mysql" alt="Git" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-         <img align="center" title="Git" alt="Git" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-       </td>
-       <td align="center">
-        <img align="center" title="NodeJS" alt="NJS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-        <img align="center" title="React" alt="React" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-         <img align="center" title="TypeScript" alt="React" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-       </td>
-    </tr>
-   </table>
-  </div>
 
-<h2 align="center"><i> Contatos: </i></h2> 
-<div align="center"> 
-  <a href = "mailto:rafaelberg32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-berg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<br><br> 
+<section>
+  <h2 align="center"><i>My GitHub Activity:</i></h2>
+  
+  <div align="center">
+    <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelBerg&layout=compact&text_color=fff&bg_color=0d1117&border_color=fff0"/>
+    <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBerg&layout=compact&text_color=fff&bg_color=0d1117&border_color=fff0"/>
+  </div>
+</section>
+
+<section>
+  <h2 align="center"><i>Skills:</i></h2>
+  <div style="display: inline_block;" align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,ts,nodejs,react,git,github&theme=dark" />
+  </div>
+</section>
+
+<hr>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carloscb124/Carloscb124/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelBerg/RafaelBerg/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafaelBerg/RafaelBerg/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
